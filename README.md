@@ -18,13 +18,16 @@
 
 ---
 
-<p align="center">General Overview</p>
+<div align="center">General Overview</div>
+
 ![txt](https://github.com/Mikkicon/QT_Interpolation/blob/master/media/Aitken%20Chart%20with%20dropdown.png)
 
-<p align="center">Aitken Table for a given Interpolation point</p>
+<div align="center">Aitken Table for a given Interpolation point</div>
+
 ![txt](https://github.com/Mikkicon/QT_Interpolation/blob/master/media/Aitken%20Table.png)
 
-<p align="center">Lagrangian Polynomial for points</p>
+<div align="center">Lagrangian Polynomial for points</div>
+
 ![txt](https://github.com/Mikkicon/QT_Interpolation/blob/master/media/Lagrangian%20Polynomial%20Chart.png)
 
 ## Table of Contents
